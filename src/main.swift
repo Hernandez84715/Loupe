@@ -7,3 +7,4 @@ macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy stru
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
+// guard against empty input
